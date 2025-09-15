@@ -8,18 +8,47 @@
     "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
     "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/lena%20profil%20resmi.png",
     "stil": {
-      "sacModeli": { "tr": "Doğal Dalgalı", "en": "Natural Wavy" },
-      "sacRengi": { "tr": "Espresso Kahve", "en": "Espresso Brown" },
-      "makyaj": { "tr": "Minimal ve Doğal", "en": "Minimal and Natural" },
-      "kiyafet": { "tr": "", "en": "" },
-      "aksesuarlar": ["Yok"]
+      "sacModeli": {
+        "tr": "Doğal Dalgalı",
+        "en": "Natural Wavy"
+      },
+      "sacRengi": {
+        "tr": "Espresso Kahve",
+        "en": "Espresso Brown"
+      },
+      "makyaj": {
+        "tr": "Minimal ve Doğal",
+        "en": "Minimal and Natural"
+      },
+      "kiyafet": {
+        "tr": "",
+        "en": ""
+      },
+      "aksesuarlar": [
+        "Yok"
+      ]
     },
     "voice": {
-       "tone": { "tr": "Yumuşak", "en": "Soft" },
-       "pitch": { "tr": "Orta", "en": "Medium" },
-       "pace": { "tr": "Normal", "en": "Normal" },
-       "age": { "tr": "Genç Yetişkin", "en": "Young Adult" },
-       "clarity": { "tr": "Net ve Anlaşılır", "en": "Clear and Articulate" }
+      "tone": {
+        "tr": "Yumuşak",
+        "en": "Soft"
+      },
+      "pitch": {
+        "tr": "Orta",
+        "en": "Medium"
+      },
+      "pace": {
+        "tr": "Normal",
+        "en": "Normal"
+      },
+      "age": {
+        "tr": "Genç Yetişkin",
+        "en": "Young Adult"
+      },
+      "clarity": {
+        "tr": "Net ve Anlaşılır",
+        "en": "Clear and Articulate"
+      }
     }
   },
   {
@@ -31,18 +60,47 @@
     "anchorAccessoryEn": "She always has a thin black leather bracelet on her right wrist.",
     "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/kayra%20profil%20resmi.png",
     "stil": {
-      "sacModeli": { "tr": "Yanlara Ayrılmış Lob", "en": "Side-Parted Lob" },
-      "sacRengi": { "tr": "Pastel Pembe", "en": "Pastel Pink" },
-      "makyaj": { "tr": "Kırmızı Ruj ve Eyeliner", "en": "Red Lipstick and Eyeliner" },
-      "kiyafet": { "tr": "", "en": "" },
-      "aksesuarlar": ["Yok"]
+      "sacModeli": {
+        "tr": "Yanlara Ayrılmış Lob",
+        "en": "Side-Parted Lob"
+      },
+      "sacRengi": {
+        "tr": "Pastel Pembe",
+        "en": "Pastel Pink"
+      },
+      "makyaj": {
+        "tr": "Kırmızı Ruj ve Eyeliner",
+        "en": "Red Lipstick and Eyeliner"
+      },
+      "kiyafet": {
+        "tr": "",
+        "en": ""
+      },
+      "aksesuarlar": [
+        "Yok"
+      ]
     },
     "voice": {
-      "tone": { "tr": "Net", "en": "Crisp" },
-      "pitch": { "tr": "Yüksek", "en": "High" },
-      "pace": { "tr": "Hızlı", "en": "Fast" },
-      "age": { "tr": "Genç Yetişkin", "en": "Young Adult" },
-      "clarity": { "tr": "Net ve Anlaşılır", "en": "Clear and Articulate" }
+      "tone": {
+        "tr": "Net",
+        "en": "Crisp"
+      },
+      "pitch": {
+        "tr": "Yüksek",
+        "en": "High"
+      },
+      "pace": {
+        "tr": "Hızlı",
+        "en": "Fast"
+      },
+      "age": {
+        "tr": "Genç Yetişkin",
+        "en": "Young Adult"
+      },
+      "clarity": {
+        "tr": "Net ve Anlaşılır",
+        "en": "Clear and Articulate"
+      }
     }
   },
   {
@@ -54,18 +112,47 @@
     "anchorAccessoryEn": "She is never seen without her elegant gold hoop earrings.",
     "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/alara%20profil%20resmi.png",
     "stil": {
-      "sacModeli": { "tr": "Küt Kesim Bob", "en": "Blunt Cut Bob" },
-      "sacRengi": { "tr": "Buzlu Platin Sarısı", "en": "Icy Platinum Blonde" },
-      "makyaj": { "tr": "Dumanlı Göz Makyajı", "en": "Smokey Eye" },
-      "kiyafet": { "tr": "", "en": "" },
-      "aksesuarlar": ["Yok"]
+      "sacModeli": {
+        "tr": "Küt Kesim Bob",
+        "en": "Blunt Cut Bob"
+      },
+      "sacRengi": {
+        "tr": "Buzlu Platin Sarısı",
+        "en": "Icy Platinum Blonde"
+      },
+      "makyaj": {
+        "tr": "Dumanlı Göz Makyajı",
+        "en": "Smokey Eye"
+      },
+      "kiyafet": {
+        "tr": "",
+        "en": ""
+      },
+      "aksesuarlar": [
+        "Yok"
+      ]
     },
     "voice": {
-      "tone": { "tr": "Tınılı", "en": "Resonant" },
-      "pitch": { "tr": "Orta", "en": "Medium" },
-      "pace": { "tr": "Normal", "en": "Normal" },
-      "age": { "tr": "Genç Yetişkin", "en": "Young Adult" },
-      "clarity": { "tr": "Net ve Anlaşılır", "en": "Clear and Articulate" }
+      "tone": {
+        "tr": "Tınılı",
+        "en": "Resonant"
+      },
+      "pitch": {
+        "tr": "Orta",
+        "en": "Medium"
+      },
+      "pace": {
+        "tr": "Normal",
+        "en": "Normal"
+      },
+      "age": {
+        "tr": "Genç Yetişkin",
+        "en": "Young Adult"
+      },
+      "clarity": {
+        "tr": "Net ve Anlaşılır",
+        "en": "Clear and Articulate"
+      }
     }
   },
   {
@@ -77,18 +164,47 @@
     "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
     "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/metin%20profil%20resmi.png",
     "stil": {
-      "sacModeli": { "tr": "Kısa ve Düzgün", "en": "Short and Neat" },
-      "sacRengi": { "tr": "Gece Siyahı", "en": "Midnight Black" },
-      "makyaj": { "tr": "Yok", "en": "None" },
-      "kiyafet": { "tr": "", "en": "" },
-      "aksesuarlar": ["Yok"]
+      "sacModeli": {
+        "tr": "Kısa ve Düzgün",
+        "en": "Short and Neat"
+      },
+      "sacRengi": {
+        "tr": "Gece Siyahı",
+        "en": "Midnight Black"
+      },
+      "makyaj": {
+        "tr": "Yok",
+        "en": "None"
+      },
+      "kiyafet": {
+        "tr": "",
+        "en": ""
+      },
+      "aksesuarlar": [
+        "Yok"
+      ]
     },
     "voice": {
-      "tone": { "tr": "Derin", "en": "Deep" },
-      "pitch": { "tr": "Düşük", "en": "Low" },
-      "pace": { "tr": "Normal", "en": "Normal" },
-      "age": { "tr": "Yetişkin", "en": "Adult" },
-      "clarity": { "tr": "Net ve Anlaşılır", "en": "Clear and Articulate" }
+      "tone": {
+        "tr": "Derin",
+        "en": "Deep"
+      },
+      "pitch": {
+        "tr": "Düşük",
+        "en": "Low"
+      },
+      "pace": {
+        "tr": "Normal",
+        "en": "Normal"
+      },
+      "age": {
+        "tr": "Orta Yaş",
+        "en": "Middle-Aged"
+      },
+      "clarity": {
+        "tr": "Net ve Anlaşılır",
+        "en": "Clear and Articulate"
+      }
     }
   }
 ]
